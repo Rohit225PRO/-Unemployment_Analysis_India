@@ -20,7 +20,7 @@ This notebook includes:
 ## 🔧 How to Use
 
 1️⃣ **Clone this repository** or download the notebook file.  
-2️⃣ Ensure that the dataset file (`Unemployment in India.xls`) is in the same directory as the notebook.  
+2️⃣ Ensure that the dataset file (`Unemployment in India.csv`) is in the same directory as the notebook.  
 3️⃣ Install the required Python packages:  
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn joblib openpyxl
@@ -35,7 +35,7 @@ jupyter notebook Unemployment_Analysis_India_AICTE_Oasis_Infobyte_Internship_202
 
 ## 📊 Dataset
 
-- The dataset (`Unemployment in India.xls`) contains:  
+- The dataset (`Unemployment in India.csv`) contains:  
   - Unemployment rate by state  
   - Monthly time-series data  
   - Other relevant economic indicators
